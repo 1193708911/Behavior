@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="behavior_sample_title">com.example.admin.myapplication.TurnUpBehavior</string>
+</resources>
